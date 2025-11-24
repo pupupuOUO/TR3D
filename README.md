@@ -4,7 +4,7 @@
     <strong>3D Digital Modeling of Power Transformers Based on Morphology-aware Registration Network</strong>
 </p>
 <p align="center">
-    Qiubing Shen, Yige Zhao, Chen Yang, Yuhao Zhang, Hui Chen
+    <a href="https://github.com/pupupuOUO">Qiubing Shen</a>, <a >Yige Zhao</a>, <a >Chen Yang</a>, <a >Yuhao Zhang</a>, <a >Hui Chen</a>
 </p>
 <p align="center">
     <img src="assets/teaser.png" alt="teaser" width="100%">
