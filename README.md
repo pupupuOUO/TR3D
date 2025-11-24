@@ -36,10 +36,11 @@ See the [LICENSE](./LICENSE) file for more information.
 # Reference
 
 If you find our dataset useful in your research, please cite:
+```bibtex
 @article{TR3D,
-author = {xxx},
-title = {3D Digital Modeling of Power Transformers Based on Morphology-aware Registration Network},
-booktitle = {},
-year = {2025}
+    author = {xxx},
+    title = {3D Digital Modeling of Power Transformers Based on Morphology-aware Registration Network},
+    booktitle = {},
+    year = {2025}
 }
 
