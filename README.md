@@ -4,7 +4,7 @@
     <strong>3D Digital Modeling of Power Transformers Based on Morphology-aware Registration Network</strong>
 </p>
 <p align="center">
-    Qiubing Shen, Yige Zhao, Chen Yang, Yuhao Zhang, Hui Chen*
+    Qiubing Shen   Yige Zhao   Chen Yang   Yuhao Zhang   Hui Chen
 </p>
 <p align="center">
     <img src="assets/teaser.png" alt="teaser" width="98%">
@@ -38,7 +38,7 @@ See the [LICENSE](./LICENSE) file for more information.
 If you find our dataset useful in your research, please cite:
 ```bibtex
 @article{TR3D,
-    author = {Qiubing Shen, Yige Zhao, Chen Yang, Yuhao Zhang, Hui Chen*},
+    author = {Qiubing Shen, Yige Zhao, Chen Yang, Yuhao Zhang, Hui Chen},
     title = {3D Digital Modeling of Power Transformers Based on Morphology-aware Registration Network},
     booktitle = {},
     year = {2025}
