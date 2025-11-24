@@ -6,6 +6,9 @@
 <p align="center">
     xxx et al.
 </p>
+<p align="center">
+    <img src="assets/teaser.png" alt="teaser" width="70%">
+</p>
 
 ---
 
