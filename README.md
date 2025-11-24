@@ -22,14 +22,19 @@ You can download the dataset from the following link:
 (Add your dataset description here)
 - Brief introduction to the TR3D dataset  
 - Directory structure explanation  
-- Data usage examples  
+- Data usage examples
+
+---
+
+# TODO
+
+- More task annotations
 
 ---
 
 # License
 
-The **TR3D dataset** is released under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** License.  
-See the [LICENSE](./LICENSE) file for more information.
+The TR3D dataset is made available under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
 
 ---
 
