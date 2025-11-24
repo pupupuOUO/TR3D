@@ -1,8 +1,8 @@
 # TR3D
 
-<p align="center">
+<h2 align="center">
     <strong>3D Digital Modeling of Power Transformers Based on Morphology-aware Registration Network</strong>
-</p>
+</h2>
 <p align="center">
     <a href="https://github.com/pupupuOUO">Qiubing Shen</a>, <a >Yige Zhao</a>, <a >Chen Yang</a>, <a >Yuhao Zhang</a>, <a >Hui Chen</a>
 </p>
