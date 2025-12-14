@@ -15,14 +15,20 @@
 # Usage
 
 ## Download the dataset
-You can download the dataset from <a href="https://pan.baidu.com/s/1oBqaLTGQITdzhm7D0z-Gkw?pwd=wd98" style="text-decoration:underline;">here</a>
-.
+You can download the dataset from <a href="https://pan.baidu.com/s/1oBqaLTGQITdzhm7D0z-Gkw?pwd=wd98" style="text-decoration:underline;">here</a>.
 
 ### Dataset Description
-(Add your dataset description here)
-- Brief introduction to the TR3D dataset  
-- Directory structure explanation  
-- Data usage examples
+- **Brief introduction to the TR3D dataset**  
+  TR3D is a PT 3D dataset comprising 420 models of approximately 50 types of PT used in power systems. It is designed to provide comprehensive morphological
+  knowledge for deep learning models or serve as a test benchmark for power equipment. TR3D includes both point cloud data and mesh data, with the point cloud
+  data obtained using the SPS sampling method mentioned in the paper.
+
+- **Directory structure explanation**  
+TR3D_Data_Root
+├── H5File
+│ ├── ply_data_test0.h5 - Point cloud data
+├── Mesh
+│ ├── <PT_*>- Mesh data
 
 ---
 
