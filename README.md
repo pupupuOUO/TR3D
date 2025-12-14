@@ -30,7 +30,10 @@ TR3D_Data_Root
 ├── Mesh
 │ ├── <PT_*>- Mesh data
 
-TR3D_Data_Root ├── H5File # Contains processed point cloud data │ ├── ply_data_test0.h5 # Point cloud data (e.g., in HDF5 format, sampled via SPS) │ └── Mesh # Contains raw or reconstructed mesh data ├── <PT_001>.obj # Example mesh file for a specific PT model ├── <PT_002>.stl └── ...
+TR3D_Data_Root
+ |— H5File # Contains processed point cloud data |— ply_data_test0.h5 # Point cloud data (e.g., in HDF5 format, sampled via SPS)
+ |— Mesh # Contains raw or reconstructed mesh data |— <PT_001>.obj # Example mesh file for a specific PT model |— <PT_002>.stl
+ |— ...
 
 ---
 
