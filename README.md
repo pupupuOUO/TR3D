@@ -10,12 +10,18 @@
     <img src="assets/teaser.png" alt="teaser" width="100%">
 </p>
 
+
+---
+
+# Updates
+- [12/2025] TR3D dataset released!
+
 ---
 
 # Usage
 
 ## Download the dataset
-You can download the dataset from <a href="https://pan.baidu.com/s/1oBqaLTGQITdzhm7D0z-Gkw?pwd=wd98" style="text-decoration:underline;">here</a>.
+You can download the dataset from [here](https://drive.google.com/drive/folders/1JVc1nNX4xGQvYu3LEnberPirgwEemyOs?usp=drive_link).
 
 ### Dataset Description
 - **Brief introduction to the TR3D dataset**  
