@@ -14,7 +14,7 @@
 ---
 
 # Updates
-- [03/2026] 🎉 **TR3D is officially published!** See the paper [here](https://ieeexplore.ieee.org/abstract/document/11442696/keywords#keywords)
+- [03/2026] 🎉 The paper has been published! See it [here](https://ieeexplore.ieee.org/abstract/document/11442696)
 - [12/2025] TR3D dataset released!
 
 ---
