@@ -14,6 +14,7 @@
 ---
 
 # Updates
+- [03/2026] 🎉 **TR3D is officially published!** See the paper [here](https://ieeexplore.ieee.org/abstract/document/11442696/keywords#keywords)
 - [12/2025] TR3D dataset released!
 
 ---
@@ -57,9 +58,13 @@ The TR3D dataset is made available under the [CC BY 4.0](https://creativecommons
 If you find our dataset useful in your research, please cite:
 ```bibtex
 @article{TR3D,
-    author = {Qiubing Shen, Yige Zhao, Chen Yang, Yuhao Zhang, Hui Chen},
-    title = {3D Digital Modeling of Power Transformers Based on Morphology-aware Registration Network},
-    booktitle = {},
-    year = {2025}
+  author={Shen, Qiubing and Zhao, Yige and Yang, Chen and Zhang, Yuhao and Chen, Hui},
+  journal={IEEE Transactions on Industry Applications}, 
+  title={3D Digital Modeling of Power Transformers Based on Morphology-Aware Registration Network}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-13},
+  doi={10.1109/TIA.2026.3675169}
 }
 
